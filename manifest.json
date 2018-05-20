@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Unpaginate media mainstream indonesia",
-  "description": "we hate pagination to increase page impresions.",
+  "description": "additional links to tribun website to make better reading experience.",
   "version": "1.0",
 
   "browser_action": {
@@ -11,8 +11,7 @@
         "32": "images/white_32.png",
         "48": "images/white_48.png",
         "128": "images/white_128.png"
-      },
-   "default_popup": "popup.html"
+      }
   },
   "background": {
       "scripts": ["background.js"],
